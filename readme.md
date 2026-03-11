@@ -10,3 +10,4 @@
 8. Szinkronizálás
 9. Konfliktuskezelés
 10. Csoporttag invite
+10. Klónozás
