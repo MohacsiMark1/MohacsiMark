@@ -9,4 +9,4 @@
 7. Pull művelet
 8. Szinkronizálás
 9. Konfliktuskezelés
-10. 
+10. Csoporttag invite
