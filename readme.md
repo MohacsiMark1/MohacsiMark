@@ -7,4 +7,6 @@
 5. Kapcsolódás a remote repositoryhoz
 6. Push művelet
 7. Pull művelet
-
+8. Szinkronizálás
+9. Konfliktuskezelés
+10. 
