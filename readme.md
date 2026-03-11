@@ -10,5 +10,4 @@
 8. Szinkronizálás
 9. Konfliktuskezelés
 10. Csoporttag invite
-10. Klónozás
-11. Imádom az izmos büdös cigányokat
+10. Klónozáss
